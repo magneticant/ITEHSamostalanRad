@@ -12,7 +12,7 @@
             'cena'=>40
         ),
         array(
-            'id'=> 3,
+            'id'=> 3,   
             'naziv'=>'Slusalice',
             'cena'=>50
         )
